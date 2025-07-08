@@ -1,3 +1,5 @@
+3. Diagrama de Casos de Uso 
+
 Definición:
 Es un diagrama que describe las acciones o funciones que el sistema debe realizar desde la perspectiva del usuario.
 
