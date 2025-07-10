@@ -1,3 +1,5 @@
+8. Diagrama de Clases
+
 El diagrama de clases es un tipo de diagrama UML que permite representar la estructura estática de un sistema, mostrando las clases que lo componen, sus atributos, métodos y las relaciones entre ellas (como herencia, asociación o composición).
 
 ![image](https://github.com/user-attachments/assets/9f586caf-1a1d-4fbe-9504-860013fde031)
